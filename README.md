@@ -1,5 +1,5 @@
 # TOH-map-FR
 
-Created for the University of Ottawa's Department of Anesthesiology and Pain Medicine.
+Créé pour le Département d'anesthésiologie et de médecine de la douleur de l'Université d'Ottawa.
 
-Website of World map of cities in which University of Ottawa Department of Anesthesiology and Pain Medicine faculty members have presented talks, workshops, grand round and academic half day sessions.
+Site Web de la carte mondiale des villes dans lesquelles les membres du corps professoral du Département d'anesthésiologie et de médecine de la douleur de l'Université d'Ottawa ont présenté des conférences, des ateliers, une grande ronde et des séances universitaires d'une demi-journée.

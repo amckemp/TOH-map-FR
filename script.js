@@ -201,15 +201,6 @@ for (let marker in allMarkers){
         document.body.scrollTop = document.documentElement.scrollTop = 0;
 
     });
-
-    allMarkers[marker].on('mouseover', function (e) {
-        this.openPopup();
-    });
-    allMarkers[marker].on('mouseout', function (e) {
-        this.closePopup();
-    });
-
-    
 }
 
 markerToronto.bindPopup('Toronto, Ontario');
@@ -250,3 +241,37 @@ markerBoston.bindPopup('Boston, Massachusetts');
 markerSanDiego.bindPopup('San Diego, Californie');
 markerCalgary.bindPopup('Calgary, Alberta');
 markerNewOrleans.bindPopup('La Nouvelle-Orléans, Louisiane');
+
+
+
+function popupType (){
+
+    var size = window.innerWidth;
+
+    if (size > 1085){
+
+        map.setView([35, 0], 2.45);
+        
+        for (let marker in allMarkers){
+            allMarkers[marker].on('mouseover', function (e) {
+                this.openPopup();
+            });
+
+            allMarkers[marker].on('mouseout', function (e) {
+                this.closePopup();
+            });
+        }
+    } else {
+
+        map.setView([30, -40], 1);
+    
+        for (let marker in allMarkers){
+            allMarkers[marker].on('click', function (e) {
+                this.openPopup();
+            });   
+        }
+    }
+
+}
+popupType();
+window.addEventListener('resize', popupType);

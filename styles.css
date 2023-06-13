@@ -95,7 +95,7 @@ div > .leaflet-popup-content {
 
         width: 100%;
 
-        position: sticky;
+        position: relative;
         bottom: 0;
         top: 0%;
         

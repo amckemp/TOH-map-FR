@@ -1,26 +1,27 @@
+
 ===============================
-CONFÉRENCES, PRÉSENTATIONS ET ATELIERS VIRTUELS :
+CONFÉRENCES, PRÉSENTATIONS ET ATELIERS VIRTUELS :
 <br><br>
-<b><b>Boet, Sylvain.</b></b> Traitement COVID-19 avec OHB. Congrès annuel de l'Association canadienne de médecine sous-marine et hyperbare (CUHMA). Webdiffusion (nationale) novembre 2021.
+<b><b>Boet, Sylvain.</b></b> Traitement COVID-19 avec OHB. Congrès annuel de l'Association canadienne de médecine subaquatique et hyperbare (CUHMA). Webdiffusion (nationale) novembre 2021.
 <br><br>
-<b><b>Budiansky, Adele.</b></b> Stimulation ventriculaire rapide pour l'écrêtage d'anévrisme intracrânien. Visites virtuelles de la section de neuroanesthésie de la CAS. Septembre 2023.
+<b><b>Budiansky, Adele.</b></b> Stimulation ventriculaire rapide pour le clipage d'anévrisme intracrânien. Visites virtuelles de la section de neuroanesthésie de la CAS. Septembre 2023.
 <br><br>
 <b><b>Budiansky, Adele.</b></b> Conférence sur la neuroanesthésie. CARE. Virtuel. juin 2022.
 <br><br>
-<b><b>Budiansky, Adele.</b></b> Conférence sur la neuroanesthésie. Faire une marque. Virtuel. août 2021.
+<b><b>Budiansky, Adele.</b></b> Conférence sur la neuroanesthésie. Making a Mark. Virtuel. août 2021.
 <br><br>
-<b><b>Chiu M.</b></b> Utilisation de la simulation pour l'enseignement de la neuroanesthésie : Conseils pratiques et perles Panel sur l'avancement de l'éducation : Compétences essentielles pour les neuroanesthésiologistes. Congrès annuel de la Société canadienne des anesthésiologistes. Juin 2021.
+<b><b>Chiu M.</b></b> Utilisation de la simulation pour l'enseignement de la neuroanesthésie : Conseils pratiques et perles Panel sur l'avancement de l'éducation : Compétences essentielles pour les neuroanesthésiologistes. Congrès annuel de la Société canadienne des anesthésiologistes. Juin 2021.
 <br><br>
 <b><b>Chiu M.</b></b> Le rôle de la simulation dans la réponse de l'AFMC à la crise des opioïdes. Réponse de l'Association des facultés de médecine du Canada au sommet du projet sur la crise des opioïdes. Février 2022
 <br><br>
-<b>Eissa, Mohamed.</b> Conférencier à la plate-forme d'éducation virtuelle d'apprentissage en ligne Mega (Airway Symposium ; Airway Ultrasound) Fév. 2022
+<b>Eissa, Mohamed.</b> Conférencier à la plate-forme d'éducation virtuelle d'apprentissage en ligne Mega (Airway Symposium ; Airway Ultrasound) Fév. 2022
 <br><br>
 <b>Eissa, Mohamed.</b> Conférencier à la plate-forme d'éducation virtuelle d'apprentissage en ligne Mega sur la médecine du sommeil périopératoire. (Médecine du sommeil et Anesthésie 101). <a href='https://megalearning.online/aiovg_videos/sleep-medicine-and-anaesthesia-101/'>https://megalearning.online/aiovg_videos/sleep-medicine-and-anaesthesia-101/</a >. Septembre 2021.
 <br><br><b>Filteau, Lucie</b> Réduire le risque de détournement d'opioïdes en salle d'opération. Visites guidées des professeurs invités de l'École de médecine du Nord de l'Ontario (EMNO). Virtuel. décembre 2022.
 <br><br>
 <b>Filteau, Lucie.</b> Mise à jour du président de la SCA. Assemblée générale annuelle de la BCAS. Virtuel. novembre 2022.
 <br><br>
-<b>Filteau, Lucie.</b> Conversations avec Jillian Horton, Retrouver l'équilibre : la sagesse des médecins artistes. Série de balados du Collège royal des médecins et chirurgiens du Canada. Virtuel. Septembre 2022.
+<b>Filteau, Lucie.</b> Conversations avec Jillian Horton, Retrouver l'équilibre : la sagesse des médecins artistes. Série de balados du Collège royal des médecins et chirurgiens du Canada. Virtuel. Septembre 2022.
 <br><br>
 <b>Filteau, Lucie.</b> Moderniser le DPC pour favoriser l'amélioration de l'expérience et des résultats des patients. Webinaire de développement professionnel continu de Tri-Nation Alliance (Canada, Australie, Nouvelle-Zélande). Virtuel. Septembre 2022.
 <br><br>
@@ -28,11 +29,11 @@ CONFÉRENCES, PRÉSENTATIONS ET ATELIERS VIRTUELS :
 <br><br>
 <b>Filteau, Lucie.</b> Reconnaître le travail d'amélioration de la qualité dans le cadre du MOC. Podcast de spécialité du Collège royal. Virtuel. avril 2022.
 <br><br>
-<b>Filteau, Lucie.</b> Mise à jour sur le maintien de la certification : ajouter le QI à votre portefeuille de DPC. Webinaire sur la pratique professionnelle du Collège royal. Virtuel. novembre 2021.
+<b>Filteau, Lucie.</b> Mise à jour sur le maintien de la certification : ajouter l’amélioration de la qualité (QI) à votre portefeuille de DPC. Webinaire sur la pratique professionnelle du Collège royal. Virtuel. novembre 2021.
 <br><br>
 <b>Gomez, Claudia.<</b> Confederación Latinoamericana de Sociedades de Anestesiología-Curso de Anestesia Obstétrica- Présentatrice de l'atelier : Gestion de la douleur aiguë chez la patiente enceinte, avril 2021.
 <br><br>
-<b>Gomez, Claudia.</b> Confederación Latinoamericana de Sociedades de Anestesiología (CLASA)- Curso de Anestesia en Obesidad Mórbida- Présentateur : ERAS en chirurgie bariatrique, mars 2021.
+<b>Gomez, Claudia.</b> Confederación Latinoamericana de Sociedades de Anestesiología (CLASA)- Curso de Anestesia en Obesidad Mórbida- Présentateur : ERAS en chirurgie bariatrique, mars 2021.
 <br><br>
 <b>Lalu, Manoj.</b> Engagement des patients dans la recherche préclinique en laboratoire. Webinaire post-congrès de l'Association internationale pour l'étude de la douleur (IASP). Virtuel. novembre 2022.
 <br><br>
@@ -93,71 +94,78 @@ TORONTO, ONTARIO:
 <b>Nickel, Curtis.</b> Transition vers la pratique : un pont vers l'indépendance. Réunion des anesthésiologistes de l'Ontario. Toronto, septembre 2022
 <br><br>
 <b><b>Rajaleelan, Wesley</b>.</b> Soins d'anesthésie rachidienne avec partage des tâches dans trois hôpitaux indiens ruraux : un essai clinique contrôlé randomisé de non-infériorité. Table ronde de Béthune - Mai 2023
+<br><br><br><br>
+<b>Ramlogan, Reva.</b> Cours de revision en anesthésie régionale. Laisser une marque Conférence nationale des résidents. Annuellement 2021-2022 Toronto
+
 <br><br>
-<b>Ramlogan, Reva.</b> Conférence sur l'examen de l'anesthésie régionale. Making a Mark Conférence nationale des résidents. Annuellement 2021 – 2022. Toronto
-<br><br>
-<b>Sylvain Gagné,</b> Prise en charge du patient diabétique en période périopératoire, Ontario Anesthesia Meeting, Toronto, septembre 2022
+<b>Sylvain Gagné,</b> Gestion du patient diabétique en période périopératoire. Réunion sur l’anesthésie en Ontario, Septembre 2022 
 
 ===============================
 BALTIMORE, MARYLAND:
 <br><br>
-<b>McIsaac, Daniel I.</b> Fragilité périopératoire : améliorer les résultats pour les personnes âgées vulnérables. Séances scientifiques d'anesthésiologie et de soins intensifs, Johns Hopkins School of Medicine, janvier 2023
+<b>McIsaac, Daniel I.</b>Fragilité périopératoire: Améliorer les résultats pour les aînés vulnérables. séances scientifiques en Anesthésiologie et soins intensifs Johns Hopkins School of Medicine Janvier 2023
 
 ===============================
-VILLE DE QUÉBEC, QUÉBEC :
+QUEBEC CITY, QUEBEC:
 <br><br>
-<b>Chiu, Michelle et Aucoin, Sylvie.</b> Gestion des comportements non professionnels dans l'environnement périopératoire. Séance plénière du chef. Réunion de la Société canadienne des anesthésiologistes. La ville de Québec. juin 2023
+<b>Chiu, Michelle and Aucoin, Sylvie.</b> Gestion des comportements non professionnels dans l’environnement périopératoire. Séance plénière du chef. Congrès annuel de la Société canadienne des anesthésiologistes. Quebec. Juin 2023
 <br><br>
-<b>Filteau, Lucie.</b> Gérer le paysage de la sécurité des médicaments : employer des stratégies nationales, départementales et personnelles. Congrès annuel de la Société canadienne des anesthésiologistes. La ville de Québec. juin 2023.
+<b>Filteau, Lucie.</b> Gestion du contexte de la sécurité des medicaments: Utilisation de stratégies nationales, departementales et personnelles. Congrès annuel de la Société canadienne des anesthésiologistes. Quebec. Juin 2023
 <br><br>
-<b>Filteau, Lucie.</b> L'avenir de l'anesthésie au Canada – Le bon, la brute et le truand
-Congrès annuel de la Société canadienne des anesthésiologistes. La ville de Québec. juin 2023.
+<b>Filteau, Lucie.</b> L’avenir de l’anesthésie au Canada Le Bon, la Brute et le Truand Congrès annuel de la Société canadienne des anesthésiologistes. Quebec. Juin 2023
 <br><br>
-<b>McIsaac, Daniel I.</b> Recherche de préhabilitation centrée sur le patient. Journée de la recherche de l'Université Laval, mars 2022, Québec QC
+<b>McIsaac, Daniel I.</b> Recherche en préahabilitation centrée sur le patient. Journée de la recherche de l’Université Laval, mars 2022, Québec
 <br><br>
-<b>Murto, Kimmo.</b> Amygdalectomie - Éviter les pièges 60 min. Séance PBLD à deux reprises. Congrès annuel de la Société canadienne des anesthésiologistes (SCA), Québec, Québec. juin 2023.
+<b>Murto, Kimmo.</b>  Amygdalectomie - Éviter les pièges 60 min. séance de discussion et d’apprentissage  axée sur des  problemes deux reprises. Congrès annuel de la Société canadienne des anesthésiologistes. Quebec. Juin 2023
 <br><br>
-<b>Rajeelan, Wesley</b> - PBLD, Traumatisme crânien et cicatrisation osseuse. CAS 2023. Ville de Québec
+<b>Rajeelan, Wesley</b> - séance de discussion et d’apprentissage  axée sur des  problemes Traumatisme crânien et cicatrisation osseuse Congrès annuel de la Société canadienne des anesthésiologistes. Quebec. Juin 2023
 <br><br>
-<b><b>Rajaleelan, Wesley</b>.</b> TBI et ORIF - PBLD - CAS Neurosection 2023, Québec. juin 2023>
+<b><b>Rajaleelan, Wesley</b>.</b> lésion cérébrale traumatique et fixation externe de fracture comminutive séance de discussion et d’apprentissage  axée sur des  probleme. Congrès annuel de la Société canadienne des anesthésiologistes. Section Neuro  Quebec. Juin 2023
 <br><br>
-<b>Wong P,</b> Chef d'atelier, Blocs abdominaux et tronculaires, Congrès annuel de la SCA. Québec, Québec. Juin 2023.
+<b>Wong P,</b> chef d'atelier de blocs de la paroi abdominale et tronculaires Congrès annuel de la Société canadienne des anesthésiologistes. Quebec. Juin 2023
+
 
 ===============================
-WINNIPEG, MANNITOBA :
+WINNIPEG, MANNITOBA:
 <br><br>
-<b>McIsaac, Daniel I.</b> Fragilité périopératoire. Journée de la recherche de l'Université du Manitoba. Winnipeg, MB. novembre 2021
+<b>McIsaac, Daniel I.</b> Fragilité périopératoire. Journée de la recherche de l’Université du Manitoba. Novembre 2021 Winnipeg, MB. 
 
 ===============================
-SYDNEY, AUSTRALIE:
+SYDNEY, AUSTRALIA:
 <br><br>
-<b>McIsaac, Daniel I.</b> Fragilité : évaluation et optimisation périopératoires. Collège d'anesthésie d'Australie et de Nouvelle-Zélande, soins périopératoires, groupe d'intérêt spécial, août 2021, Sydney, Australie.
+<b>McIsaac, Daniel I.</b> Fragilité: Évaluation et optimisation périopératoires. groupe d'intérêt special, soins périopératoires. Collège d’anesthésie d’Australie et Nouvelle-Zélande. Août 2021 Sydney, Australie.  
 
 ===============================
-OTTAWA, ONTARIO :
+OTTAWA, ONTARIO:
 <br><br>
-<b>Alie, Tristan.</b> Gestion difficile des voies respiratoires. Demi-journée académique du programme de médecine de soins intensifs. Ottawa. octobre 2022
+<b>Alie, Tristan.</b>  Gestion difficile des voies respiratoires. Demi-journée académique du programme de soins intensifs Octobre, 2022 Ottawa.  
+
 <br><br>
-<b>Allard, René.</b> Instructeur de l'atelier POCUS. Conférence LUCAS. Ottawa. février 2023.
+<b>Allard, Rene.</b> Instructeur de l’atelier échographie au point d'intervention (POCUS) LUCAS Conference. Fevrier, 2023. Ottawa. 
 <br><br>
-<b>Andrews M,</b> Atelier de simulation des boursiers FEAST. Outils de fermeture des écarts pour CRM. uOSSC. octobre 2022
+<b>Andrews M,</b> Atelier de simulation des Fellow FEAST. Outils de reduction des lacunes pour CRM. Octobre 2022 uOSSC.
 <br><br>
-<b>Aucoin, Sylvie.</b> Récupération virtuelle après chirurgie (VRAS). Conférences scientifiques du Département de chirurgie de l'Hôpital d'Ottawa. Ottawa, Ontario. Février 2023.
+<b>Aucoin, Sylvie.</b> Récupération virtuelle après chirurgie. séances scientifiques du Service de chirurgie de l’Hôpital d’Ottawa. Fevrier 2023 Ottawa, ON.
 <br><br>
-<b>Boet, Sylvain.</b> Vaccin : Non merci. Journées Montfort 2022. Webdiffusion (Nationale) mars 2022.
+<b>Boet, Sylvain.</b>Vaccin: Non merci. Journées Montfort 2022. Webcast (National) March 2022.
 <br><br>
-<b>Boet, Sylvain.</b> Dissémination de ma recherche : comment se faire publier et hors publication affiche, podcast, atelier et autres. Affaires francophones, Faculté de médecine, Université d'Ottawa. Webdiffusion (Canada, France, Suisse, Cameroun) janvier 2022.
+<b>Boet, Sylvain.</b> Dissémination de ma recherche: comment se faire publier et hors publication affiche, podcast, atelier et autres. Francophones Affairs, Faculty of Medicine, University of Ottawa. Webcast (Canada, France, Switzerland, Cameroun) January 2022.
 <br><br>
-<b>Boet, Sylvain.</b> La médecine hyperbare au service de mon patient ?. Développement Professionnel Continu des Affaires Francophones, Faculté de médecine, Université d'Ottawa. Webdiffusion (nationale) novembre 2021.
+<b>Boet, Sylvain.</b> La médecine hyperbare au service de mon patient?. Développement Professional Continu des Affaires Francophones, Faculty of Medicine, University of Ottawa. Webcast (National) November 2021.
 <br><br>
-<b>Budiansky, Adele.</b> Conférence sur la neuroanesthésie. Cours national de révision en neurochirurgie d'Ottawa. Ottawa. février 2023.
+<b>Budiansky, Adele.</b>
+Conférence sur la neuroanesthésie. Cours de revision nationale en Neurochirurgie d’Ottawa Fevrier 2023 Ottawa
 <br><br>
-<b>Budiansky, Adele.</b> Conférence sur la neuroanesthésie. Cours national de révision en neurochirurgie d'Ottawa. Ottawa. février 2022.
+<b>Budiansky, Adele.</b>
+Conférence sur la neuroanesthésie. Cours de revision nationale en Neurochirurgie d’Ottawa Fevrier 2022 Ottawa
 <br><br>
-<b>Bryson, Gregory L</b>. Tours QPS. Comment est-ce arrivé là ? Erreurs médicamenteuses et chaîne d'approvisionnement. Anesthésiologie et médecine de la douleur, L'Hôpital d'Ottawa. Mars 2023.
-<br><br><b>Mondes CHEO :</b>
+<b>Bryson, Gregory L</b>.
+séances scientifiques en qualité et sécurité des patients. Comment c’est arrivé? Erreurs liées aux médicaments et chaîne d’approvisionnement. Departement d’anesthésie et médecine de la douleur, l'Hôpital d'Ottawa mars 2023
+<b>CHEO Rounds:</b>
 <ul>
-     <li><b>Corvo, Antoinette</b> M&M Rounds Ottawa, ON 2-fév-22
+    <li><b>Corvo, Antoinette</b>
+séances scientifiques morbidité et de mortalité 2-Feb-22
+ Ottawa, ON	
      <li><b>Lamontagne, Christine</b> Bloquer ou ne pas bloquer ? Gestion interventionnelle de la douleur dans la douleur chronique pédiatrique Ottawa, ON 23 mars 23
      <li><b>Lamontagne, Christine</b> Discussion de cas M&M Rounds Ottawa, ON 19 oct. 23
      <li><b>Lamontagne, Christine</b> Cycles de recherche Paint Catastrophizing Study et Power in Pain Portal Ottawa, ON 8 février 23
@@ -258,12 +266,12 @@ Présentateur de l'atelier : Comment intégrer le bien-être à votre programme
      <li>M&M tourne D<b>R. Mahaffey</b>. décembre 2022
      <li>Tours combinés - Récupération améliorée après une chirurgie cardiaque (ERAS) et contrôle de la douleur - <b>Dr. Robert Chen et Dr Alex Nantsios.</b> janvier 2023
 </ul>
-<b>Gupta, Sanjiv.</b> Conscience et anesthésie :​ L'inconscience est-elle un objectif indispensable de l'anesthésie générale ? Rondes DAPM. mars 2023.
+<b>Gupta, Sanjiv.</b> Conscience et anesthésie :​ L'inconscience est-elle un objectif indispensable de l'anesthésie générale ? Rondes Département d’anesthésiologie et médecine de la douleur de l’université d’Ottawa. Mars 2023.
 <br><br>
-<b>Gupta, Sanjiv.</b> Principes de base de la pharmacologie clinique. PGME - AHD. novembre 2022.
+<b>Gupta, Sanjiv.</b> Principes de base de pharmacologie clinique. PGME - AHD. Novembre 2022.
 <br><br>
-<b>Gupta, Sanjiv.</b> Mécanismes d'anesthésie et de conscience. PGME - AHD. décembre 2021.
-<br><br><b>Gu, Yuqi.</b> Conférence sur les éléments fondamentaux de la théorie de la simulation appliquée (FEAST) – debrief the debriefer, Département d'innovation et d'éducation médicale, Université d'Ottawa (décembre 2022)
+<b>Gupta, Sanjiv.</b> Mécanismes d'anesthésie et de conscience. PGME - AHD. Décembre 2021.
+<br><br><b>Gu, Yuqi.</b> Conférence sur les éléments fondamentaux de la théorie de la simulation appliquée (FEAST) – au-delà du debriefing, Département d'innovation et d'éducation médicale, Université d'Ottawa (décembre 2022)
 <br><br>
 <b>Gu, Yuqi.</b> Conférence sur les éléments fondamentaux de la théorie de la simulation appliquée (FEAST) – Introduction au débriefing, Département d'innovation et d'éducation médicale, Université d'Ottawa (septembre 2022)
 <br><br>
@@ -271,48 +279,44 @@ Présentateur de l'atelier : Comment intégrer le bien-être à votre programme
 <br><br>
 <b>Krolczyk, Gregory.</b> Démonstrateur d'anesthésie régionale - LUCAS 2023, février 2024
 <br><br>
-<b>Kruger P,</b> Diriger les tournées M&M de chirurgie cardiaque congénitale tous les 2 mois Ottawa
+<b>Kruger P,</b> Animateur des tournées M&M de chirurgie cardiaque congénitale tous les 2 mois Ottawa
 <br><br>
-<b>Lamontagne C.</b> (2023) Syndrome de douleur myofasciale post-virale, Anesthesia Grand Rounds, Children's Hospital of Eastern Ontario, Ottawa, Ontario, Canada
+<b>Lamontagne C.</b> (2023) Syndrome de douleur myofasciale post-virale, Grand Rounds d’anesthésiologie, Centre hospitalier pour enfants de l’est de l’Ontario, Ottawa, Ontario, Canada
 <br><br>
-<b>Lamontagne C.</b>, (2023) Mise à jour sur les activités de recherche, Cycles de recherche, Cycles scientifiques d'anesthésie, Centre hospitalier pour enfants de l'est de l'Ontario, Ottawa, Ontario, Canada
+<b>Lamontagne C.</b>, (2023) Mise à jour sur les activités de recherche, Conference de recherche, Grand Rounds d’anesthésie, Centre hospitalier pour enfants de l'est de l'Ontario, Ottawa, Ontario, Canada
 <br><br>
-<b>Lamontagne C.</b> (Octobre 2022) Présentation de cas sur l'embolie CO2, Morbidity and Mortality Rounds, Department of Anesthesia, Children's Hospital of Eastern Ontario, Ottawa, Ontario, Canada
+<b>Lamontagne C.</b> (Octobre 2022) Présentation de cas sur l'embolie CO2, Revues de morbidité & mortalité, département d’anesthésiologie, Centre hospitalier pour enfants de l’est de l’Ontario, Ottawa, Ontario, Canada
 <br><br>
-<b>Lamontagne C.</b> (août 2022) Ce que vous avez toujours voulu savoir sur la douleur, la sédation et l'anesthésie mais que vous aviez peur de demander… Demi-journée académique pour résidents en pédiatrie, Université d'Ottawa, Ottawa, Canada
+<b>Lamontagne C.</b> (Août 2022) Ce que vous avez toujours voulu savoir sur la douleur, la sédation et l'anesthésie mais que vous aviez peur de demander… Demi-journée académique pour résidents en pédiatrie, Université d'Ottawa, Ottawa, Canada
 <br><br>
-<b>Lamontagne C.</b> (avril 2022 et avril 2023) Chargé de cours, La douleur chronique et son évaluation- Étudiant en deuxième année de médecine Semaine d'intégration en médecine de la douleur (volet français), Université d'Ottawa
+<b>Lamontagne C.</b> (Avril 2022 et avril 2023) Chargé de cours, La douleur chronique et son évaluation- Étudiant en deuxième année de médecine Semaine d'intégration en médecine de la douleur (volet français), Université d'Ottawa
 <br><br>
-<b>Lamontagne C.</b>, Demi-journée académique pour les résidents en médecine pédiatrique Développement de contenu et conférence sur la gestion de la douleur, la sédation et l'optimisation médicale pour l'anesthésie générale chez les patients pédiatriques, CHEO, Université d'Ottawa, Ontario
+<b>Lamontagne C.</b>, Demi-journée académique pour les résidents en médecine pédiatrique Développement de contenu et conférence sur la gestion de la douleur, la sédation et l'optimisation médicale pour l'anesthésie générale chez les patients pédiatriques, Centre hospitalier pour enfants malades de l’est de l’Ontario, Université d'Ottawa, Ontario
 <br><br>
-<b>Lamontagne C.</b>, décembre 2022, janvier 2023. Conférences des résidents en médecine de la douleur. Syndrome douloureux régional complexe pédiatrique, douleur post-chirurgicale persistante chez les patients pédiatriques.
+<b>Lamontagne C.</b>, Décembre 2022, janvier 2023. Conférences des résidents en médecine de la douleur. Syndrome douloureux régional complexe pédiatrique, douleur post-chirurgicale persistante chez les patients pédiatriques.
 <br><br>
 <b>Miller, Elizabeth.</b> Co-directrice. Atelier d'échographie LUCAS au point de service. Ottawa, 2023.
 <br><br>
-<b>McFaul, Colleen.</b> Co-directrice du cours. Cours de formation des formateurs en échographie au point de service. Hôpital d'Ottawa. mars 2022.
+<b>McFaul, Colleen.</b> Co-directrice du cours. Cours de formation des formateurs en échographie au point de service. Hôpital d'Ottawa. Mars 2022.
 <br><br>
 <b>McFaul, Colleen.</b> Physiologie de la douleur. Semaine de la douleur, Faculté de médecine, Ottawa ON. Avril 2021, 2022 et 2023.
 <br><br>
 <b>McFaul, Colleen.</b> Résumé de la semaine de la douleur. Faculté de médecine, Ottawa, ON. Avril 2021, 2022, 2023.
 <br><br>
-<b>McFaul, Colleen.</b> Co-responsable du cours d'échographie au point de service. LUCAS. février 2023.
+<b>McFaul, Colleen.</b> Co-responsable du cours d'échographie ciblée. LUCAS. Février 2023.
 <br><br>
-<b>McFaul, Colleen.</b> Présentation sur l'anesthésie thoracique. LUCAS. février 2022.
+<b>McFaul, Colleen.</b> Présentation sur l'anesthésie thoracique. LUCAS. Février 2022.
 <br><br>
 <b>McFaul, Colleen.</b> Modérateur du panel d'anesthésie thoracique. LUCAS. février 2021.
 <br><br>
-<b>Moffett, Stephane, MD :</b> enseignant annuel PGY1 CLB au noyau de pneumologie février-mars 2023 (depuis février 2008), enseignant annuel PGY2 CBL à la semaine de la douleur avril 2022 Ottawa
-<br><br><b>Murto, Kimmo.</b> Protocoles d'hémorragie massive pédiatrique et paramètres de qualité. Rondes de recherche. CHEO DAPM. mai 2023.
+<b>Moffett, Stephane, MD :</b> enseignant titulaire PGY1 CLB cours de base de pneumologie février-mars 2023 (depuis février 2008), enseignant annuel PGY2 CBL à la semaine de la douleur avril 2022 Ottawa
+<br><br><b>Murto, Kimmo.</b> Protocoles d'hémorragie massive pédiatrique et paramètres de qualité. Conférence de recherche. Centre hospitalier pour enfants malades de l’est de l’Ontario, Département d’anesthésiologie et médecine de la douleur de l’université d’Ottawa. mai 2023.
 <br><br>
 <b>Murto, Kimmo.</b> Gestion périopératoire du sang des patients pédiatriques. Visites du Département de Chirurgie. CHEO. mai 2023.
 <br><br>
-<b>Murto, Kimmo.</b> Mise à jour des cycles de recherche. Rondes de recherche. CHEO DAPM. mars 2023.
+<b>Murto, Kimmo.</b> Mise à jour des cycles de recherche.  Conférence de recherche. Centre hospitalier pour enfants malades de l’est de l’Ontario, Département d’anesthésiologie et médecine de la douleur de l’université d’Ottawa. mars 2023.
 <br><br>
-<b>Murto, Kimmo.</b> Pharmacocinétique du plasma et du LCR du célécoxib chez les enfants : un essai contrôlé randomisé. Rondes de recherche. CHEO DAPM. janvier 2023.
-<br><br>
-<b>Murto, Kimmo.</b> Bloody Busy, un pot-pourri d'initiatives de recherche sur la transfusion pédiatrique. Rondes de recherche. CHEO DAPM. novembre 2023.
-<br><br>
-<b>Murto, Kimmo.</b> Mettre à jour les projets en cours. Rondes de recherche. CHEO DAPM. octobre 2021.
+<b>Murto, Kimmo.</b> Pharmacocinétique du plasma et du LCR du célécoxib chez les enfants : un essai contrôlé randomisé. Rondes de recherche. Centre hospitalier pour enfants malades de l’est de l’Ontario, Département d’anesthésiologie et médecine de la douleur de l’université d’Ottawa. Janvier 2023.
 <br><br>
 <b>Neilipovitz, David.</b> Série de balados sur les soins intensifs intitulée Ontario Critical Care Clinical Practice Rounds (OC3PR). Présentations 2021-22 listées :<br>
 <ol>
@@ -439,14 +443,14 @@ MONTREAL, QUEBEC
 ===============================
 CORNER BROOK, TERRE-NEUVE
 <br><br>
-<b>Aucoin, Sylvie.</b> Médecine périopératoire : le passé, le présent et l'avenir. Congrès annuel de la Société des anesthésiologistes du Canada atlantique. Corner Brook, Terre-Neuve. Février 2023
+<b>Aucoin, Sylvie.</b> Médecine périopératoire : le passé, le présent et l'avenir. Congrès atlantique annuel de la Société Canadienne des Anesthésiologistes. Corner Brook, Terre-Neuve. Février 2023
 
 ===============================
 KOWEÏT VILLE, KOWEÏT
 <br><br>
-<b>Chiu M, Dubois D.</b> Élaboration d'une carte curriculaire significative pour la compétence par conception. Institut koweïtien de spécialisation en santé (KIMS). janvier 2022
+<b>Chiu M, Dubois D.</b> Le développement d'une carte curriculaire significative pour la La compétence par conception. Kuwait Institute for Health Specialization (KIMS). janvier 2022
 <br><br>
-<b>Dubois, Daniel.</b> Cartographie du curriculum. Institut koweïtien de spécialisation médicale. Koweït City, Koweït. novembre 2022.
+<b>Dubois, Daniel.</b> Cartographie du curriculum. Kuwait Institute for Medical Specialization. Koweït City, Koweït. novembre 2022.
 
 ===============================
 LYON, FRANCE
@@ -456,26 +460,26 @@ LYON, FRANCE
 ===============================
 SANTIAGO, CHILI
 <br><br>
-<b>Dubois, Daniel.</b> Principes d'évaluation. Pontificia Universidad Católica de Chile, Webinaire virtuel. Décembre 2021.
+<b>Dubois, Daniel.</b> Principes de l’évaluation. Pontificia Universidad Católica de Chile, Webinaire virtuel. Décembre 2021.
 
 ===============================
 PARIS, FRANCE
 <br><br>
-<b>Boet, Sylvain.</b> Recherche en éducation médicale : Impact auprès des patients et des apprenants. Les 10 ans de LabForSIMS. Paris, France. Mai 2022.
+<b>Boet, Sylvain.</b> Recherche en éducation médicale: impact auprès des patients et des apprenants. Les 10 ans de LabForSIMS. Paris, France. Mai 2022.
 <br><br>
-<b>Boet, Sylvain.</b> Pourquoi et comment faire de la recherche en éducation médicale ? Séminaire de Pédagogie Médicale du regroupement HUGO. France. Mars 2022.
+<b>Boet, Sylvain.</b> Pourquoi et comment faire de la recherche en éducation médicale ? Séminaire de Pédagogie Médicale du regroupement HUGO. France. Mars 2022.
 <br><br>
 <b>Boet, Sylvain.</b> Comment réussir son étude en éducation médicale. Groupe de Recherche et Innovation en Pédagogie en Santé GRIPS. Webdiffusion (France) novembre 2022.
 
 ===============================
 STEADY BROOK, TERRE-NEUVE
 <br><br>
-<b>Filteau, Lucie.</b> Mise à jour du président de la SCA. Réunion canadienne atlantique sur l'anesthésie. Steady Brook, Terre-Neuve. février 2023.
+<b>Filteau, Lucie.</b> Mise à jour de la présidente de la SCA. Congrès atlantique annuel de la Société Canadienne des Anesthésiologistes. Steady Brook, Terre-Neuve. février 2023.
 
 ===============================
 BERKLEY, CALIFORNIE
 <br><br>
-<b>Lalu, Manoj.</b> Comment pouvons-nous impliquer les patients en tant que partenaires dans notre recherche préclinique/bancaire ? Série de séminaires de l'Institut de génomique innovante (Berkeley/UCSF). avril 2022.
+<b>Lalu, Manoj.</b> Comment pouvons-nous impliquer les patients comme partenaires dans notre recherche préclinique/laboratoire ? Série de séminaires de Innovative Genomics Institute (Berkeley/UCSF). avril 2022.
 
 ===============================
 STANFORD, CALIFORNIE
@@ -485,35 +489,35 @@ STANFORD, CALIFORNIE
 ===============================
 LOUISVILLE, KENTUCKY
 <br><br>
-<b>Lalu, Manoj.</b> Les mutations passées et futures de l'édition scientifique. Réunion annuelle de l'American Society of Animal Science. Louisville, Kentucky + Virtuel. juillet 2021.
+<b>Lalu, Manoj.</b> Les changements passés et futurs de la publication scientifique. Réunion annuelle de l'American Society of Animal Science. Louisville, Kentucky et virtuel. juillet 2021.
 
 ===============================
 ORLANDO FLORIDE
 <br><br>
-<b>Rajaleelan, Wesley.</b> Impact de l'inversion du sugammadex par rapport à la néostigmine sur la récupération postopératoire et les complications postopératoires chez les patients souffrant d'apnée obstructive du sommeil subissant une chirurgie bariatrique : un essai contrôlé randomisé en double aveugle. SQPHI, Orlando, FL. Mars 2023
+<b>Rajaleelan, Wesley.</b> Impact du sugammadex comparé à la néostigmine sur la récupération postopératoire et les complications postopératoires chez les patients souffrant d'apnée obstructive du sommeil subissant une chirurgie bariatrique : un essai contrôlé randomisé en double aveugle. SQPHI, Orlando, FL. Mars 2023
 
 ===============================
 DENVER, COLORADO
 <br><br>
-<b>Murto, Kimmo.</b> Protocoles d'hémorragie massive pédiatrique et paramètres de qualité. Panel Récupération améliorée après une hémorragie : un nouveau « ERAH » dans la gestion du sang des patients pédiatriques pour la réunion annuelle de l'International Anesthesia Research Society (IARS). Denver, Colorado. avril 2023.
+<b>Murto, Kimmo.</b> Protocoles d'hémorragie massive pédiatrique et paramètres de qualité. Paneliste - Récupération améliorée après une hémorragie : une nouvelle époque dans la gestion du sang pour les patients pédiatriques, réunion annuelle de l'International Anesthesia Research Society (IARS). Denver, Colorado. avril 2023.
 <br><br>
-<b>Murto, Kimmo.</b> Conférencier PBLD invité : Amygdalectomie chez un enfant - Évitez les pièges pour la réunion annuelle 2023 de l'International Anesthesia Research Society (IARS). Denver, Colorado. avril 2023.
+<b>Murto, Kimmo.</b> Conférencier PBLD invité : Amygdalectomie chez un enfant - Évitez les pièges, réunion annuelle 2023 de l'International Anesthesia Research Society (IARS). Denver, Colorado. avril 2023.
 <br><br>
-<b>Rajaleelan, Wesley.</b> Soins d'anesthésie rachidienne avec partage des tâches dans trois hôpitaux indiens ruraux : essai clinique contrôlé randomisé de non-infériorité : IARS, Denver, CO. Avril 2023
+<b>Rajaleelan, Wesley.</b> Soins d'anesthésie rachidienne avec partage des tâches dans trois hôpitaux indiens ruraux : essai clinique contrôlé randomisé de non-infériorité : IARS, Denver, CO. Avril 2023
 <br><br>
 <b>Rajaleelan, Wesley.</b> Les avantages cliniques du POCUS chez les parturientes, une revue des preuves. IARS, Denver, Colorado, avril 2023
 
 ===============================
 TUSCON, ARIZONA
 <br><br>
-<b>Rajaleelan, Wesley.</b> Gestion des voies respiratoires d'urgence en position couchée, une étude observationnelle sur mannequin. SAM. Tucson, AZ. Septembre 2022
+<b>Rajaleelan, Wesley.</b> Gestion des voies respiratoires d'urgence en position couchée sur le ventre, une étude observationnelle sur mannequin. SAM. Tucson, AZ. Septembre 2022
 
 ===============================
 LIVERPOOL, ANGLETERRE
 <br><br>
-<b>Duggan, Laura.</b> Conférence John Snow Keynote : Deficits in Airway Research, Association of Anesthetists of Great Britain Annual Meeting, Liverpool UK Septembre 2021
+<b>Duggan, Laura.</b> Conférence John Snow Keynote : Déficits en recherche de les voies aériennes, rencontre annuelle de Association of Anesthetists of Great Britain, Liverpool, Royaume-Uni, Septembre 2021
 <br><br>
-<b>Duggan, Laura.</b> Évaluer la vue du larynx : qu'avons-nous appris depuis les années 1980 ? Réunion annuelle de l'Association des anesthésistes de Grande-Bretagne, Liverpool, Royaume-Uni, septembre 2021
+<b>Duggan, Laura.</b> Évaluer la vue du larynx : qu'avons-nous appris depuis les années 1980 ? rencontre annuelle - Association of Anesthetists of Great Britain, Liverpool, Royaume-Uni, septembre 2021
 
 ===============================
 PORTLAND, OREGON
@@ -523,7 +527,7 @@ PORTLAND, OREGON
 ===============================
 WHISTLER, COLOMBIE-BRITANNIQUE
 <br><br>
-<b>Duggan, Laura.</b> Whistler Anesthesia Summit 2022, Quoi de neuf dans les lignes directrices 2021 du CAFG sur les voies respiratoires
+<b>Duggan, Laura.</b> Whistler Anesthesia Summit 2022, Quoi de neuf dans les lignes directrices 2021 du CAFG sur les voies aériennes.
 
 ===============================
 COPENGAGE, DANEMARK
@@ -533,24 +537,24 @@ COPENGAGE, DANEMARK
 ===============================
 RIYAD, ARABIE SAOUDITE
 <br><br>
-<b>Chiu M.</b> Rester en sécurité et optimiser les opportunités : exploiter la simulation pour affronter la tempête pandémique. Conférencier principal. Assemblée scientifique de la Société saoudienne de simulation. Décembre 2021
+<b>Chiu M.</b> Rester en sécurité et optimiser les opportunités : L’utilisation de la simulation pour affronter la pandémie. Conférencière principale. Saudi Society of Simulation Scientific Assembly. Décembre 2021
 
 ===============================
 BOSTON, MASSACHUSETTS
 <br><br>
-<b>Murto, Kimmo.</b> Protocoles pédiatriques pour les hémorragies massives – Directive sur le contenu fondé sur des données probantes. Masterclass sur la gestion du sang des patients pédiatriques dans les principes de l'anesthésie pédiatrique et de l'offre pré-conférence de soins intensifs. Une activité CME accréditée par la Harvard Medical School. Boston, Massachusetts. mai 2023.
+<b>Murto, Kimmo.</b> Protocoles pour les hémorragies massives pédiatriques – Directive sur le contenu fondé sur des données probantes. Cours de maître sur la gestion du sang pour les patients pédiatriques dans les principes de l'anesthésie pédiatrique et de l'offre pré-conférence de soins intensifs. Une activité CME accréditée par la Harvard Medical School. Boston, Massachusetts, mai 2023.
 <br><br>
-<b>Murto, Kimmo.</b> Responsable de l'atelier Hémorragie massive–Discussion basée sur des cas et démonstration pratique d'équipement. Masterclass sur la gestion du sang des patients pédiatriques dans les principes de l'anesthésie pédiatrique et de l'offre pré-conférence de soins intensifs. Une activité CME accréditée par la Harvard Medical School. Boston, Massachusetts. mai 2023.
+<b>Murto, Kimmo.</b> Responsable de l'atelier hémorragie massive– discussion des cas et démonstration pratique d'équipement. Cours de maître sur la gestion du sang des patients pédiatriques dans les principes de l'anesthésie pédiatrique et de l'offre pré-conférence de soins intensifs. Une activité CME accréditée par la Harvard Medical School. Boston, Massachusetts. mai 2023.
 
 ===============================
 SAN DIEGO, CALIFORNIE
 <br><br>
-<b>Murto, Kimmo.</b> Aspects inflammatoires systémiques du SAOS et prédisposition aux événements indésirables respiratoires périopératoires (PRAE). Panel L'influence de l'apnée obstructive du sommeil sur les résultats périopératoires chez les enfants lors de la réunion annuelle de l'American Society of Anesthesiologists (ASA). San Diego, Californie. octobre 2021.
+<b>Murto, Kimmo.</b> Aspects inflammatoires systémiques du SAOS et prédisposition aux événements indésirables respiratoires périopératoires. Paneliste - L'influence de l'apnée obstructive du sommeil sur les résultats périopératoires chez les enfants, réunion annuelle - American Society of Anesthesiologists (ASA). San Diego, Californie, octobre 2021.
 
 ===============================
 CALGARY, ALBERTA
 <br><br>
-<b>Chiu M,</b> Cherry R, Levy A. Dégriefing du débriefing : dépannage et gestion des situations difficiles. Cours de formation des éducateurs en simulation du Collège royal des médecins et chirurgiens du Canada. Mars 2022
+<b>Chiu M,</b> Cherry R, Levy A. Dégriefing du débriefing : dépannage et gestion des situations difficiles. Cours de formation des éducateurs en simulation du Collège royal des médecins et chirurgiens du Canada. Mars 2022
 <br><br>
 <b>Chiu M,</b> Cherry R, Levy A. Techniques de débriefing pour l'enseignement basé sur la simulation. Cours de formation des éducateurs en simulation du Collège royal des médecins et chirurgiens du Canada. Février 2022
 <br><br>
@@ -559,6 +563,6 @@ Tavares W, <b>Chiu M,</b> Clark M. Cadres conceptuels informant l'enseignement e
 ===============================
 LA NOUVELLE-ORLÉANS, LOUISIANE
 <br><br>
-<b>Ramlogan, Reva.</b> Gestion des cathéters de bloc nerveux périphérique pour les fractures de côtes. Société des anesthésistes traumatologues. Août 2022. La Nouvelle-Orléans
+<b>Ramlogan, Reva.</b> Gestion des cathéters de bloc nerveux périphérique pour les fractures de côtes. Trauma Anesthesiologists Society. Août 2022. La Nouvelle-Orléans
 
-===============================
+==============================
